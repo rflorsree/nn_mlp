@@ -4,7 +4,7 @@ Ejemplo **básico y práctico** de una red neuronal (Perceptrón Multicapa) que 
 
 ---
 
-## Requisitos
+## Requisitos :)
 
 - Python 3.7+
 - TensorFlow
